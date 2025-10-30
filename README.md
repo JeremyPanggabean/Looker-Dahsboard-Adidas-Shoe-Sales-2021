@@ -57,7 +57,7 @@ The dashboard aims to:
 
 ---
 
-#### **🗺️ Page 2 — Adidas Sales Bubble Map Based on City**  
+#### **📍 Page 2 — Adidas Sales Bubble Map Based on City**  
 ![Adidas Sales Bubble Map](Images/Adidas%20Sales%20Buble%20Map%20Based%20on%20City_Page%202.jpg)
 
 **Description:**  
