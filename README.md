@@ -1,7 +1,7 @@
 # 👟 Adidas Shoe Sales 2021 Performance With LookerStudio Dashboard  
 
 ### 📊 Project Overview  
-This project presents a **business intelligence dashboard** analyzing Adidas shoe and apparel sales throughout **2021**.  
+This project presents a **business intelligence dashboard** analyzing Adidas shoe and apparel sales in US throughout **2021**.  
 The dashboard provides insights into **total revenue, unit sales, operating profits, product performance, and sales distribution** across regions and retailers.  
 
 The visuals were designed using **Google Looker Studio** with a clean corporate-style layout inspired by BI tools such as Power BI and Rshiny.  
@@ -11,16 +11,18 @@ The visuals were designed using **Google Looker Studio** with a clean corporate-
 ---
 
 ### 🧾 Dataset  
-**Source:** Custom dataset prepared in Google Sheets (2021 Adidas sales sample).  
+**Source:** Dataset prepared in Google Sheets (2021 Adidas Sales in US).  
 **File:** [`Data/Adidas Shoe Sales_2021.csv`](Data/Adidas%20Shoe%20Sales_2021.csv)  
 
 | Column | Description |
 |---------|-------------|
+| `Retailer` | Company that sell product directly to consumer |
+| `Retailer_ID` | Unique ID on each retailer |
 | `Invoice_Date` | Date of transaction |
 | `Region` | Sales region (South, West, Midwest, etc.) |
 | `State` | U.S. state where the sale occurred |
 | `City` | City of the retailer |
-| `Product` | Product category (e.g., Men Street Footwear, Women Apparel) |
+| `Product` | Product category (e.g., Men Street Footwear, Women Apparel, Men Athletic Footwear) |
 | `Price_per_Unit` | Unit price of the product (USD) |
 | `Unit_Sold` | Total units sold |
 | `Total_Sales` | Total revenue generated (USD) |
