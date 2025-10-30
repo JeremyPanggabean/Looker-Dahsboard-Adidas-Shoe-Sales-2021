@@ -1,4 +1,4 @@
-# 👟 Adidas Shoe Sales US 2021 Performance With Looker Studio Dashboard  
+# 👟 Adidas US Shoe Sales 2021 Performance With Looker Studio Dashboard  
 
 ### 📊 Project Overview  
 This project presents a **business intelligence dashboard** analyzing Adidas shoe and apparel sales in US throughout **2021**.  
