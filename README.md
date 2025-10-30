@@ -1,4 +1,4 @@
-# 👟 Adidas Shoe Sales Performance Dashboard 2021  
+# 👟 Adidas Shoe Sales Performance Looker Dashboard 2021  
 
 ### 📊 Project Overview  
 This project presents a **business intelligence dashboard** analyzing Adidas shoe and apparel sales throughout **2021**.  
