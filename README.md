@@ -86,16 +86,14 @@ An interactive **geo bubble map** visualizing total sales per city and retailer.
 ---
 
 ### 🧭 Project Structure  
-adidas-shoe-sales-2021/
+📁 adidas-shoe-sales-2021/
+├─ 📂 Data/
+│  └─ Adidas Shoe Sales_2021.csv
 │
-├── Data/
-│   └── Adidas Shoe Sales_2021.csv           # Raw dataset (~9K records)
+├─ 📂 Images/
+│  ├─ Adidas Sales Performance_Page 1.jpg
+│  └─ Adidas Sales Buble Map Based on City_Page 2.jpg
 │
-├── Images/
-│   ├── Adidas Sales Performance_Page 1.jpg  # Main dashboard screenshot
-│   └── Adidas Sales Buble Map Based on City_Page 2.jpg  # Geographic visualization
-│
-├── README.md                                  # Project documentation
-└── LICENSE                                    # License information
+├─ 📄 README.md
+└─ 📄 LICENSE
 
----
