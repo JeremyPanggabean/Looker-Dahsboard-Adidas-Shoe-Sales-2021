@@ -89,7 +89,7 @@ An interactive **geo bubble map** visualizing total sales per city and retailer.
 ```bash
 📁 adidas-shoe-sales-2021/
 ├─ 📂 Data/
-│  └─ Adidas Shoe Sales_2021.csv
+│  └─ Adidas Shoe Sales_2021.csv # Raw dataset (~9K records)
 │
 ├─ 📂 Images/
 │  ├─ Adidas Sales Performance_Page 1.jpg
