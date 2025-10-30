@@ -4,7 +4,7 @@
 This project presents a **business intelligence dashboard** analyzing Adidas shoe and apparel sales throughout **2021**.  
 The dashboard provides insights into **total revenue, unit sales, operating profits, product performance, and sales distribution** across regions and retailers.  
 
-The visuals were designed using **Google Looker Studio** with a clean corporate-style layout inspired by BI tools such as Tableau and Power BI.  
+The visuals were designed using **Google Looker Studio** with a clean corporate-style layout inspired by BI tools such as Power BI and Rshiny.  
 
 🔗 **Live Dashboard:** [View on Looker Studio](https://lookerstudio.google.com/reporting/65dd8820-2943-4a18-a3cf-0e08d2e1ac71)  
 
