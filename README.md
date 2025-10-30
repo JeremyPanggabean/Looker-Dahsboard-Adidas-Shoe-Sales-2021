@@ -16,7 +16,7 @@ The visuals were designed using **Google Looker Studio** with a clean corporate-
 
 | Column | Description |
 |---------|-------------|
-| `Retailer` | Company that sell product directly to consumer |
+| `Retailer` | Company that sell product directly to consumer (e.g., Amazon, Walmart, Foot Locker|
 | `Retailer_ID` | Unique ID on each retailer |
 | `Invoice_Date` | Date of transaction |
 | `Region` | Sales region (South, West, Midwest, etc.) |
@@ -89,11 +89,13 @@ An interactive **geo bubble map** visualizing total sales per city and retailer.
 adidas-shoe-sales-2021/
 │
 ├── Data/
-│ └── Adidas Shoe Sales_2021.csv
+│   └── Adidas Shoe Sales_2021.csv           # Raw dataset (~9K records)
 │
 ├── Images/
-│ ├── Adidas Sales Performance_Page 1.jpg
-│ └── Adidas Sales Buble Map Based on City_Page 2.jpg
+│   ├── Adidas Sales Performance_Page 1.jpg  # Main dashboard screenshot
+│   └── Adidas Sales Buble Map Based on City_Page 2.jpg  # Geographic visualization
 │
-├── README.md
-└── LICENSE
+├── README.md                                  # Project documentation
+└── LICENSE                                    # License information
+
+---
