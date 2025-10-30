@@ -95,5 +95,4 @@ An interactive **geo bubble map** visualizing total sales per city and retailer.
 │  └─ Adidas Sales Buble Map Based on City_Page 2.jpg
 │
 ├─ 📄 README.md
-└─ 📄 LICENSE
 
