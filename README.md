@@ -16,7 +16,7 @@ The visuals were designed using **Google Looker Studio** with a clean corporate-
 
 | Column | Description |
 |---------|-------------|
-| `Retailer` | Company that sell product directly to consumer (e.g., Amazon, Walmart, Foot Locker|
+| `Retailer` | Company that sell product directly to consumer (e.g., Amazon, Walmart, Foot Locker) |
 | `Retailer_ID` | Unique ID on each retailer |
 | `Invoice_Date` | Date of transaction |
 | `Region` | Sales region (South, West, Midwest, etc.) |
