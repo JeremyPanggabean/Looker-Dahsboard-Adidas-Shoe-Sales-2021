@@ -72,7 +72,6 @@ An interactive **geo bubble map** visualizing total sales per city and retailer.
 - **Google Sheets** → Data cleaning and preparation  
 - **Google Looker Studio** → Dashboard creation and visualization  
 - **Excel** → Data preprocessing  
-- **Canva / Figma** → Visual design and layout polishing (logo & theme colors)
 
 ---
 
